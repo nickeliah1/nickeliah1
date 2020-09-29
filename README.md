@@ -1,4 +1,6 @@
-### Hi there 👋
+### Oh hey 👋
+
+![can you believe](https://media3.giphy.com/media/28fZ7zDQVrVwumo7wU/source.gif)
 
 <!--
 **nickeliah1/nickeliah1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
